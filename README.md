@@ -13,6 +13,7 @@ A template for setting up webpack module bundler for JavaScript development.
 
 Style Loader
 CSS Loader
+HTML Webpack Plugin
 
 # Setup:
 
@@ -21,3 +22,6 @@ npm install -D webpack webpack-cli
 
 Install Style loader and CSS loader:
 npm install -D style-loader css-loader
+
+Install HTML Webpack Plugin:
+npm install -d html-webpack-plugin
